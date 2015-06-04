@@ -1,5 +1,5 @@
 <html>
 <body>
-<?php echo 'primo file modificato su master'; ?>
+<?php echo 'primo file modificato su entrambi'; ?>
 </body>
 </html>
