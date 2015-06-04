@@ -1,5 +1,5 @@
 <html>
-	<body>
-		<?php echo 'primo file'; ?>
-	</body>
+<body>
+<?php echo 'primo file'; ?>
+</body>
 </html>
